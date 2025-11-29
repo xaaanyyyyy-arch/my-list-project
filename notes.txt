@@ -1,1 +1,1 @@
-My notes about Git project. 
+Hello
